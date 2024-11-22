@@ -1,4 +1,4 @@
-# Create README.md content as a string
+
 # Analyzing Social Media Content to Identify Factors Driving Viral Video Propagation
 
 ## Project Overview
