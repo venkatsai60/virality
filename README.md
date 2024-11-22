@@ -89,3 +89,28 @@ This project aims to understand the factors contributing to viral video propagat
 1. Clone the repository.
    ```bash
    git clone [repository_url]
+   
+2. Install the required Python dependencies:
+    ```bash
+    pip install -r requirements.txt
+3. Run the Flask application:
+   ```bash
+   python app.py
+
+## Results
+
+**Model Performance**:
+
+Logistic regression and neural networks showed competitive accuracy.
+Neural networks slightly outperformed in terms of recall and precision.
+
+**Key Findings**:
+
+Metrics like views, likes, and the like-dislike ratio are strong predictors of virality.
+User engagement metrics, such as comments and shares, correlate highly with viral success.
+
+## Contributors
+Venkata Sai V (221801060)
+Praveen B (221801503)
+Under the guidance of Mrs. Y. Nirmala Anandhi, Assistant Professor, Department of AI & DS, Rajalakshmi Engineering College.
+
